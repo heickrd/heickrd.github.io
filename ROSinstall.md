@@ -21,3 +21,20 @@ Then use this command instead:<br>
 sudo sh -c 'echo "deb [arch=amd64,arm64] http://packages.ros.org/ros2/ubuntu `bionic` main" > /etc/apt/sources.list.d/ros2-latest.list'
 ```
 3. From here you can follow the rest of the steps as normal
+4. Once you are finished installing ROS2, you will need to install colcon in order to build ROS2 workspaces:
+```
+sudo apt install python3-colcon-common-extensions
+```
+You are now done with the last of the necessary installations, but here are a few more install pakcages that you may find useful.
+Git: 
+```
+sudo apt install git-all
+```
+Rosdep, used for easier installation of ROS packages:
+```
+sudo apt-get install python-rosdep
+sudo rosdep init
+rosdep update
+```
+
+
