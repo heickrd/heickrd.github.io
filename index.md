@@ -1,6 +1,7 @@
-### ROS 2 Facial Recognition Project Blog
+# ROS 2 Facial Recognition Project Blog
 
-## Week One: -Finished syllabus for class and worked on literature review
+## Week One:
+-Finished syllabus for class and worked on literature review
 
 ## Week Two-Three:
 -Began installing ROS 2. Had some issues setting up ROS on personal laptop as Virtual Machine was incompatible with ROS 2. Acquired a school laptop to install on instead. 
