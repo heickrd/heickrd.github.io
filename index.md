@@ -1,4 +1,4 @@
-## ROS 2 Facial Recognition Project Blog
+# ROS 2 Facial Recognition Project Blog
 
 ## Week One:
 -Finished syllabus for class and worked on literature review
