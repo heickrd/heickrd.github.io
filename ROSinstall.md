@@ -16,7 +16,8 @@ To find the codename of your Ubuntu. If your codename is not one of the followin
 - focal
 - stretch
 - xenial
-Then use this command instead:<br>
+
+<br>Then use this command instead:<br>
 ```
 sudo sh -c 'echo "deb [arch=amd64,arm64] http://packages.ros.org/ros2/ubuntu `bionic` main" > /etc/apt/sources.list.d/ros2-latest.list'
 ```
