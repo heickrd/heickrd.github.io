@@ -17,4 +17,5 @@
 - Possible Research Concept: Finding the minimum necessary dataset size to have software running optimally.
 
 ## Week Five:
-
+- Set up github.io page
+- Installed ROS 2. For Linux Mint install instructions click [here]()
