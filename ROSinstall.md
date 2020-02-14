@@ -1,4 +1,4 @@
-# Linux Install:
+# ROS2 Install on Linux Mint:
 1. Go to this address: https://index.ros.org/doc/ros2/Installation/Eloquent/Linux-Install-Debians/
 2. Follow all of the steps until the command: <br>
 ```
