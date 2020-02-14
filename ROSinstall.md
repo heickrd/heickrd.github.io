@@ -26,7 +26,7 @@ sudo sh -c 'echo "deb [arch=amd64,arm64] http://packages.ros.org/ros2/ubuntu `bi
 ```
 sudo apt install python3-colcon-common-extensions
 ```
-You are now done with the last of the necessary installations, but here are a few more install pakcages that you may find useful.
+You are now done with the last of the necessary installations, but here are a few more install pakcages that you may find useful.<br>
 Git: 
 ```
 sudo apt install git-all
