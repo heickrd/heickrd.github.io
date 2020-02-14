@@ -9,7 +9,8 @@
 - **TODO**: Need to install ROS onto school laptop
 
 ## Week Four:
-- Installed Facial Recognition library -Recognition Library Found here: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/ - Added myself to the dataset and trained the software on my face.
+- Installed Facial Recognition library -Recognition Library Found here: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+- Added myself to the dataset and trained the software on my face.
 - Tested the software at various angles, distances, lightings, etc. The software works realiably up to about 10 feet straight on and about 5 feet from an angle facing up from the ground. Though when placed at the average height of a turtlebot the reliablity went up to about 7 feet. I believe that a larger dataset will increase performance at range.
 - Worked on getting output from the software for later use.
 - Added more faces to the dataset and the software easily distingushes between people up close. Once again I believe that increasing the dataset will increase performance at larger distances.
