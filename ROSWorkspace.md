@@ -1,4 +1,4 @@
-#Creating and Building a ROS Workspace
+# Creating and Building a ROS Workspace
 This tutorial will show you how to build a workspace for your ROS packages.
 1. Make sure that you have you current environment sourced for ROS. To find out how, click [here](ROSConfigure.md)
 2. Next create a new directory and src folder for your workspace. Example commands for that are:
