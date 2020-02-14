@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### ROS 2 Facial Recognition Project Blog
 
-You can use the [editor on GitHub](https://github.com/heickrd/heickrd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Week One: -Finished syllabus for class and worked on literature review
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Week Two-Three:
+-Began installing ROS 2. Had some issues setting up ROS on personal laptop as Virtual Machine was incompatible with ROS 2. Acquired a school laptop to install on instead. 
+-Worked through ROS 2 tutorials. 
+-TODO: Need to install ROS onto school laptop
 
-### Markdown
+## Week Four:
+-Installed Facial Recognition library -Recognition Library Found here: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/ -Added myself to the dataset and trained the software on my face.
+-Tested the software at various angles, distances, lightings, etc. The software works realiably up to about 10 feet straight on and about 5 feet from an angle facing up from the ground. Though when placed at the average height of a turtlebot the reliablity went up to about 7 feet. I believe that a larger dataset will increase performance at range.
+-Worked on getting output from the software for later use.
+-Added more faces to the dataset and the software easily distingushes between people up close. Once again I believe that increasing the dataset will increase performance at larger distances.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-TODO: Integrate the software into a ROS environment
 
-```markdown
-Syntax highlighted code block
+-Possible Research Concept: Finding the minimum necessary dataset size to have software running optimally.
 
-# Header 1
-## Header 2
-### Header 3
+Plan for next week:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heickrd/heickrd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Begin working on project. Get robot to move and integrate mapping systems.
