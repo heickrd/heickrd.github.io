@@ -18,4 +18,4 @@
 
 ## Week Five:
 - Set up github.io page
-- Installed ROS 2. For Linux Mint install instructions click [here]()
+- Installed ROS 2. For Linux Mint install instructions click [here](ROSintall.md)
