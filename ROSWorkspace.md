@@ -17,6 +17,7 @@ git clone https://github.com/ros/ros_tutorials.git -b eloquent-devel
 colcon build
 ```
 If you are successful you should get an output that looks like this:
+
 ```
 Starting >>> turtlesim
 Finished <<< turtlesim [5.49s]
