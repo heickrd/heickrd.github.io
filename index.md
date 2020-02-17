@@ -22,6 +22,6 @@ For a current list of all tutorials, click [here](TutorialList.md)
 - Installed ROS 2. For Linux Mint install instructions click [here](ROSinstall.md)
 - Added tutorials for ROS 2 command line [configuration](ROSConfigure.md) and a basic ROS2 turtlesim [tutorial](ROSTurtlesimTutorial.md)
 - Added tutorial for building ROS [workspace](ROSWorkspace.md)
--Installed Rviz, tutorial [here]()
+- Installed Rviz, tutorial [here]()
 
 **Current TODO**: Get basic movement in robots and get Rviz to work with ROS2
