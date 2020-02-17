@@ -24,5 +24,5 @@ For a current list of all tutorials, click [here](TutorialList.md)
 - Added tutorial for building ROS [workspace](ROSWorkspace.md)
 - FIgured out how to run Rviz, tutorial [here](RvizRun.md)
 
-**Old TODO**: Get basic movement in robots and get Rviz to work with ROS2
+**Old TODO**: Get basic movement in robots and get Rviz to work with ROS2<br>
 **Current TODO**: Get movement in robots and get robot integration into RViz
