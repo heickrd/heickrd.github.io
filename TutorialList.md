@@ -3,3 +3,4 @@
 - [Configuring ROS 2 Environment](ROSConfigure.md)
 - [Simple Turtlesim tutorial](ROSTurtlesimTutorial.md)
 - [Building a ROS 2 Workplace](ROSWorkspace.md)
+- [Running RViz](RvizRun.md)
