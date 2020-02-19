@@ -36,4 +36,5 @@ sudo apt install ros-eloquent-cartographer-ros
  echo 'export ROS_DOMAIN_ID=30 #TURTLEBOT3' >> ~/.bashrc
  source ~/.bashrc
  ```
+ To test whether your installation was successful or not, try this [tutorial](SimpleGazeboTutorial.md)
  
