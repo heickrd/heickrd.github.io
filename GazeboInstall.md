@@ -22,7 +22,7 @@ sudo apt install ros-eloquent-cartographer-ros
  ```
  sudo apt install python3-vcstool
  ```
- 2. Next install the Turtlebot3 Packages
+ 3. Next install the Turtlebot3 Packages
  ```
  mkdir -p ~/turtlebot3_ws/src
  cd ~/turtlebot3_ws
@@ -30,7 +30,7 @@ sudo apt install ros-eloquent-cartographer-ros
  vcs import src < turtlebot3.repos
  colcon build --symlink-install
  ```
- 3. Lastly, save the bash commands for setup
+ 4. Lastly, save the bash commands for setup
  ```
  echo 'source ~/turtlebot3_ws/install/setup.bash' >> ~/.bashrc
  echo 'export ROS_DOMAIN_ID=30 #TURTLEBOT3' >> ~/.bashrc
