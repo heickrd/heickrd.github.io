@@ -25,4 +25,11 @@ For a current list of all tutorials, click [here](TutorialList.md)
 - FIgured out how to run Rviz, tutorial [here](RvizRun.md)
 
 **Old TODO**: Get basic movement in robots and get Rviz to work with ROS2<br>
-**Current TODO**: Get movement in robots and get robot integration into RViz. Test one photo dataset with facial recognition. 
+**Current TODO**: Get movement in robots and get robot integration into RViz. Test one photo dataset with facial recognition.
+
+## Week Size
+-Installed Turtlebot 3 Gazebo, tutorial [here](GazeboInstall.md)
+-Began testing with Gazebo simulation.
+
+**Current TODO**: Get movement in simulated robot. Get moving with a shortest path algorithm.
+
