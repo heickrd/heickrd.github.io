@@ -28,8 +28,8 @@ For a current list of all tutorials, click [here](TutorialList.md)
 **Current TODO**: Get movement in robots and get robot integration into RViz. Test one photo dataset with facial recognition.
 
 ## Week Size
--Installed Turtlebot 3 Gazebo, tutorial [here](GazeboInstall.md)
--Began testing with Gazebo simulation.
+- Installed Turtlebot 3 Gazebo, tutorial [here](GazeboInstall.md)
+- Began testing with Gazebo simulation.
 
 **Current TODO**: Get movement in simulated robot. Get moving with a shortest path algorithm.
 
