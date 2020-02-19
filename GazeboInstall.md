@@ -1,6 +1,6 @@
 # Installing Turtlebot 3 Gazebo Simulation
 This installation assumes that you are using ROS eloquent. If not, replace 'eloquent' with your ROS distro name<br>
-1. As per usual when working with ROS, make sure your workspace environemtn is [configured](ROSConfiguration.md)<br>
+1. As per usual when working with ROS, make sure your workspace environment is [configured](ROSConfigure.md)<br>
 2. Then you must install the needed ROS dependent packages.<br>
 
 ***Gazebo***
