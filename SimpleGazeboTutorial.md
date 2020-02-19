@@ -20,3 +20,16 @@ or
 ```
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
 ```
+
+***Controlling your Turtlebot***<br>
+To control your turtlebot, keep your gazebo simulation running and start a new command line. Configure the enrionment for ROS and then run the following commands:
+```
+export TURTLEBOT3_MODEL=${TB3_MODEL}
+```
+once again substituting ```${TB3_MODEL}``` with the name of your robot. Then:
+```
+ros2 run turtlebot3_teleop teleop_keyboard
+```
+Now, while still on your command line, you should be able to use the w,a,s,d keys to control your robot. 
+
+ 
