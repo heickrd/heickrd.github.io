@@ -30,7 +30,7 @@ For a current list of all tutorials, click [here](TutorialList.md)
 ## Week Six
 - Installed Turtlebot 3 Gazebo, tutorial [here](GazeboInstall.md)
 - Began testing with Gazebo simulation.
-- Worked with mapping with Cartographer(work neededd)
+- Worked with mapping with Cartographer(work needed)
 - Got basic movement in robot
 - Began advanced robot movement. Using sensors to detect obstacles and avoid them. 
 
