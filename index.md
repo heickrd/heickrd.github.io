@@ -30,6 +30,10 @@ For a current list of all tutorials, click [here](TutorialList.md)
 ## Week Six
 - Installed Turtlebot 3 Gazebo, tutorial [here](GazeboInstall.md)
 - Began testing with Gazebo simulation.
+- Worked with mapping with Cartographer(work neededd)
+- Got basic movement in robot
+- Began advanced robot movement. Using sensors to detect obstacles and avoid them. 
 
-**Current TODO**: Get movement in simulated robot. Get moving with a shortest path algorithm.
+**OLD TODO**: Get movement in simulated robot. Get moving with a shortest path algorithm.
+**Current TODO**: Get advanced movement working. If possible, get mapping to work in order to use shortest path algorithm. 
 
