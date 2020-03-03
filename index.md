@@ -37,3 +37,10 @@ For a current list of all tutorials, click [here](TutorialList.md)
 **OLD TODO**: Get movement in simulated robot. Get moving with a shortest path algorithm. <br>
 **Current TODO**: Get advanced movement working. If possible, get mapping to work in order to use shortest path algorithm. 
 
+## Week Seven
+- Attempted to get mapping to work with gazebo and cartographer
+  - This was very unsucessful as cartographer has not been ported over correctly and it seems that gazebo does not publich transform data. 
+- Began porting over random navigation from c++ to python
+
+**Current TODO**: Decide whether to continue on with mapping or shift focus to random navigation. As well as attempt to get facial recognition to work through the robots camera. Test movement with actual robot to see if mapping will work. 
+
