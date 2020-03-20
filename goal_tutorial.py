@@ -22,9 +22,6 @@ class MinimalPublisher(Node):
         goal.pose.orientation.w = 1.0
         i = goal.pose.position.x
         while True:
-            print(i)
-            print("\n")
-            print(goal)
             self.goal_pub.publish(goal)
             sleep(10)
             i = i -1
