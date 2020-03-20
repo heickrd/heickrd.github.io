@@ -2,7 +2,8 @@ This tutorial is going to show you how to write your own publisher to send goals
 1. First you want to have gazebo and Navigation2 running. Follow the instructions [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/ros2_simulation/#turtlebot3-simulation-using-fake-node) to learn how.
 
 2. I first suggest you follow along here with my example [code](goal_tutorial.py).
-  -First lets focus on the main focus of the code. Starting with the __init__ method.
+  
+  First lets focus on the main focus of the code. Starting with the __init__ method.
   ```
   super().__init__('minimal_publisher')
   ```
