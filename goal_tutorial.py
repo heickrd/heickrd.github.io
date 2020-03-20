@@ -2,8 +2,6 @@ import rclpy
 import rclpy.qos
 from rclpy.node import Node
 from geometry_msgs.msg import PoseStamped
-from sensor_msgs.msg import LaserScan
-from nav_msgs.msg import Odometry
 from time import sleep
 
 
