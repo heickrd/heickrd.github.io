@@ -50,3 +50,7 @@ For a current list of all tutorials, click [here](TutorialList.md)
 
 **Current TODO**: Work on getting the turtlebot video stream into the facial recognition software
 
+## Week 10
+-Got facial recognition to run in a ROS workspace and created all necessary launch files.
+**Current TODO**: Get turtlebot video stream to feed into facial recognition software.
+
