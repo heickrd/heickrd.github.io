@@ -45,8 +45,8 @@ For a current list of all tutorials, click [here](TutorialList.md)
 **Current TODO**: Decide whether to continue on with mapping or shift focus to random navigation. As well as attempt to get facial recognition to work through the robots camera. Test movement with actual robot to see if mapping will work. 
 
 ## Week Eight and Nine
--Got consistent goal sending to work. Allowing for navigation and movement around a given map.
--Created tutorial for goal sending
+- Got consistent goal sending to work. Allowing for navigation and movement around a given map.
+- Created tutorial for goal sending
 
 **Current TODO**: Work on getting the turtlebot video stream into the facial recognition software
 
