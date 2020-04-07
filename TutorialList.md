@@ -6,3 +6,4 @@
 - [Installing Turtlebot3 Gazebo](GazeboInstall.md)
 - [Simple Gazebo Tutorial](SimpleGazeboTutorial.md)
 - [Goal Sending Tutorial](GoalSender.md)
+- [Adding Custom Image Texture to Gazebo Model](GazeboTextureTut.md)
