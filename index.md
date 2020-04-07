@@ -62,5 +62,5 @@ For a current list of all tutorials, click [here](TutorialList.md)
     - For tutorial on how to create models and add miages into gazebo click [here](GazeboTextureTut.md)
 - For video demonstration of current product click [here](https://youtu.be/Ra69NtWebXg )
 
-**Current TODO** Finish advanced map wandering. Create action_client tutorial. Begin adding final polish to project.
+**Current TODO** Finish advanced map wandering. Create action_client tutorial. Attempt to fix RGB issue in video stream. Begin adding final polish to project.
 
