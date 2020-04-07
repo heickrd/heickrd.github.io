@@ -59,5 +59,7 @@ For a current list of all tutorials, click [here](TutorialList.md)
 ## Week 11
 - Got turtlebot video stream to run through facial recognition software
 - Added a texture of my face into the gazebo simulation
-    -For tutorial on how to create models and add miages into gazebo click [here]
+    - For tutorial on how to create models and add miages into gazebo click [here](GazeboTextureTut.md)
+
+**Current TODO** Finish advanced map wandering. Create action_client tutorial. Begin adding final polish to project.
 
