@@ -56,7 +56,7 @@ For a current list of all tutorials, click [here](TutorialList.md)
 
 **Current TODO**: Get turtlebot video stream to feed into facial recognition software.
 
-## Week 12
+## Week 11
 - Got turtlebot video stream to run through facial recognition software
 - Added a texture of my face into the gazebo simulation
     -For tutorial on how to create models and add miages into gazebo click [here]
