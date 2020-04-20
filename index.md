@@ -73,3 +73,7 @@ For a current list of all tutorials, click [here](TutorialList.md)
 
 **Current TODO**: Add personalization into unknown face saving. Create demo video and write paper.
 
+## Week 13
+- Added personilzation to unknown face saving. Unknown persons are now prompted for a name.
+**Current TODO**: Work on demo video and paper
+
