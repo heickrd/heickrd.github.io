@@ -70,5 +70,6 @@ For a current list of all tutorials, click [here](TutorialList.md)
 - Added more faces to test world
 - Added greetings to recognized faces
 - Added functionality for robot to save unknown faces in database
+
 **Current TODO**: Add personalization into unknown face saving. Create demo video and write paper.
 
