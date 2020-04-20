@@ -64,3 +64,11 @@ For a current list of all tutorials, click [here](TutorialList.md)
 
 **Current TODO** Finish advanced map wandering. Create action_client tutorial. Attempt to fix RGB issue in video stream. Begin adding final polish to project.
 
+## Week 12
+- Finished advanced map wandering, tutorial [here]()
+- Fixed RGB issue in video stream
+- Added more faces to test world
+- Added greetings to recognized faces
+- Added functionality for robot to save unknown faces in database
+**Current TODO**: Add personalization into unknown face saving. Create demo video and write paper.
+
