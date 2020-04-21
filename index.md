@@ -1,5 +1,6 @@
 # ROS 2 Facial Recognition Project Blog
 For a current list of all tutorials, click [here](TutorialList.md)
+For more info on this project, view the syllabus [here](Syllabus.pdf)
 ## Week One:
 - Finished syllabus for class and worked on literature review
 
