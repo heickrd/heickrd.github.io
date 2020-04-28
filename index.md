@@ -77,6 +77,9 @@ For more info on this project, view the syllabus [here](Syllabus.pdf)
 
 ## Week 13
 - Added personilzation to unknown face saving. Unknown persons are now prompted for a name.
+- Finished paper
+**Current TODO**: Work on demo video
 
-**Current TODO**: Work on demo video and paper
+## Week 14
+- Finished Video
 
