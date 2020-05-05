@@ -2,6 +2,8 @@
 For a current list of all tutorials, click [here](TutorialList.md)
 
 For more info on this project, view the syllabus [here](Syllabus.pdf)
+
+Final Video Summary [here](https://youtu.be/ccBD3MI7-Hs)
 ## Week One:
 - Finished syllabus for class and worked on literature review
 
